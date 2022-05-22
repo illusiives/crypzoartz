@@ -328,7 +328,7 @@ input[type=checkbox]{
 	opacity: 50%;
     display:none;
     position: absolute;
-    background-color:teal;
+    background-color:979797;
     right: 0;
     left: 0;
     text-align: center;
@@ -354,7 +354,7 @@ input[type=checkbox]{
     transform: translateX(35%);
    }
    .dropdown li:hover {
-    background-color: #4c9e9e;
+    background-color: #979797;
    }
    }
 
