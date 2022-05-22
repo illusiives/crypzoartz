@@ -336,7 +336,7 @@ input[type=checkbox]{
    }
    .menu li:hover {
     display: inline-block;
-    background-color:#4c9e9e;
+    background-color:#979797;
     transition: 0.3s ease;
    }
    .menu li + li {
@@ -392,7 +392,7 @@ input[type=checkbox]{
 
 footer {
 	bottom: -540px;
-	position: relative;
+	position: absolute;
     text-align: center;
     padding: 3px;
     background-color: rgba(109, 108, 108, 0);
