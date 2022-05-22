@@ -358,10 +358,55 @@ input[type=checkbox]{
    }
    }
 
+
+
+
+.textplace {
+	top: 140px;
+	font-size: xx-large;
+	position: relative;
+	left: 10%;
+	color: white;
+}
+.textplace .intro {
+	color: rgba(255, 208, 0, 0.986);
+	font-size: 45px;
+}
+
+.aboutxd {
+	top: 250px;
+	font-size: 35px;
+	position: relative;
+	left: 10%;
+	color: white;
+}
+.aboutxd .description {
+	color: rgb(231, 201, 31);
+	
+}
+/* .maingallery {
+	left: 30%;
+	top: 60px;
+	position: relative;
+} */
+
 footer {
+	bottom: -540px;
 	position: relative;
     text-align: center;
     padding: 3px;
-    background-color: #3333;
+    background-color: rgba(109, 108, 108, 0);
     color: white;
   }
+
+footer .webdev {
+	color: rgb(196, 106, 73)
+}
+footer .designers {
+	color: rgb(196, 106, 73)
+}
+
+footer .contact {
+	color: rgb(196, 106, 73)
+}
+
